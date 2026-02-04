@@ -1,9 +1,9 @@
-Invitation from one and only Wife
+Invitation from your one and only Wife
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>My baby wife, Rizz, Will you be my Valentine?</title>
+  <title>Will you be my Valentine?</title>
 
   <!-- Confetti library -->
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
